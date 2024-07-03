@@ -10,9 +10,13 @@ show-avatar: false
 - Bachelor of Engineering in Software Engineering, Beihang University, 09/2015 - 06/2019
 
 # RESEARCH
+- Intern | Skywork AI  
+03/2024 - Present | Advisor: Bo An  
+Conducted reserach on building generalist AI agents (Extend Cradle to more games and software).
+
 - Intern | Beijing Academy of Artificial Intelligence  
-08/2023 - Present | Advisor: Zongqing Lu  
-Conducted reserach on building generalist AI agents.
+08/2023 - 02/2024 | Advisor: Zongqing Lu  
+Conducted reserach on building generalist AI agents (Design and develop Cradle to RDR2).
 
 - RA | Nanyang Technological University  
 01/2023 - 01/2024 | Advisor: Bo An  
