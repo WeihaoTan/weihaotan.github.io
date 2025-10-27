@@ -15,7 +15,7 @@ show-avatar: false
 Conducted reserach on building game agents.
 
 - Intern | Skywork AI  
-03/2024 - 10/2024 | Advisor: Bo An  
+03/2024 - 10/2024 | Advisor: Bo An, Shuicheng Yan  
 Conducted reserach on building generalist AI agents (Extend Cradle to more games and software).
 
 - Intern | Beijing Academy of Artificial Intelligence  
