@@ -11,7 +11,7 @@ show-avatar: false
 
 # RESEARCH
 - Intern | ByteDance Seed  
-11/2025 - Present  
+11/2024 - Present  
 Conducted reserach on building game agents.
 
 - Intern | Skywork AI  
