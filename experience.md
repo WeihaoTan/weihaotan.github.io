@@ -12,19 +12,19 @@ show-avatar: false
 # RESEARCH
 - Intern | ByteDance Seed  
 11/2024 - Present  
-Conducted reserach on building game agents.
+Conducted research on building game agents.
 
 - Intern | Skywork AI  
 03/2024 - 10/2024 | Advisor: Bo An, Shuicheng Yan  
-Conducted reserach on building generalist AI agents (Extend Cradle to more games and software).
+Conducted research on building generalist AI agents (Extend Cradle to more games and software).
 
 - Intern | Beijing Academy of Artificial Intelligence  
 08/2023 - 02/2024 | Advisor: Zongqing Lu  
-Conducted reserach on building generalist AI agents (Design and develop Cradle to RDR2).
+Conducted research on building generalist AI agents (Design and develop Cradle to RDR2).
 
 - RA | Nanyang Technological University  
 01/2023 - 01/2024 | Advisor: Bo An  
-Conducted reserach on training LLM-based agents to solve decision-making tasks via RL.
+Conducted research on training LLM-based agents to solve decision-making tasks via RL.
 
 - RA | Northeastern University   
 06/2021 - 07/2022 | Advisor: Christopher Amato  
