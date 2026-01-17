@@ -5,14 +5,14 @@ show-avatar: false
 ---
 
 # EDUCATION
-- PhD of Computer Science, Nanyang Technological University, 01/2024 - Present
+- PhD in Computer Science, Nanyang Technological University, 01/2024 - Present
 - Master of Computer Science, University of Massachusetts Amherst, 09/2019 - 05/2021
 - Bachelor of Engineering in Software Engineering, Beihang University, 09/2015 - 06/2019
 
 # RESEARCH
 - Intern | ByteDance Seed  
 11/2024 - Present  
-Conducted research on building game agents.
+Conducted research on building VLM-based generalist game agents.
 
 - Intern | Skywork AI  
 03/2024 - 10/2024 | Advisor: Bo An, Shuicheng Yan  
